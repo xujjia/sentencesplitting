@@ -1,0 +1,1 @@
+g++ -o splitsentence splitSents.nom.cates.dig.minwords.cc Lexicon.d.cc IOfile.cc gzstream.cc -O3 -lz
